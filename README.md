@@ -1,6 +1,6 @@
 # realtype
 
-[![](https://travis-ci.org/BoizZ/realtype.svg?branch=master)](https://travis-ci.org/BoizZ/realtype)
+[![](https://img.shields.io/travis/BoizZ/realtype.svg?style=flat-square)](https://travis-ci.org/BoizZ/realtype)
 [![npm package](https://img.shields.io/npm/v/realtype.svg?style=flat-square)](https://www.npmjs.org/package/realtype)
 [![NPM downloads](http://img.shields.io/npm/dm/realtype.svg?style=flat-square)](https://npmjs.org/package/realtype)
 [![Dependency Status](https://david-dm.org/BoizZ/realtype.svg?style=flat-square)](https://david-dm.org/BoizZ/realtype)
