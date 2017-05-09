@@ -4,7 +4,7 @@
   "description": "Can be used to distinguish between these types: boolean, number, string, function, array, date, regexp, object, error.",
   "main": "index.js",
   "scripts": {
-    "test": "npm run lint && moch",
+    "test": "npm run lint && mocha",
     "lint": "eslint ./index.js ./test"
   },
   "repository": {
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/BoizZ/realType#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
     "eslint": "^3.19.0"
   }
 }
