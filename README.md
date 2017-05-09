@@ -25,7 +25,7 @@ realtype(['Heleth']);
 realtype(obj: any): 'boolean' | 'number' | 'string' | 'function' | 'array' | 'date' | 'regexp' | 'object' | 'error'
 ```
 
-Return a shallow copy which had dropped fields.
+Return real type.
 
 ## License
 
