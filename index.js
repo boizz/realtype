@@ -1,5 +1,7 @@
+'use strict'
+
 module.exports = function realType(obj) {
-  const class2type = {}
+  var class2type = {}
   'Boolean Number String Function Array Date RegExp Object Error'.split(' ').map((e, i) => {
     class2type[`[object ${e}]`] = e.toLowerCase()
   })
