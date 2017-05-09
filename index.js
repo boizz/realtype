@@ -2,7 +2,7 @@
 
 module.exports = function realType(obj) {
   var class2type = {}
-  'Boolean Number String Function Array Date RegExp Object Error'.split(' ').map((e, i) => {
+  'Boolean Number String Function Array Date RegExp Object Error'.split(' ').map((e) => {
     class2type[`[object ${e}]`] = e.toLowerCase()
   })
   if ( obj == null ) {
