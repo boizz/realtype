@@ -1,0 +1,27 @@
+{
+  "name": "realtype",
+  "version": "1.0.0",
+  "description": "Can be used to distinguish between these types: boolean, number, string, function, array, date, regexp, object, error.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoizZ/realType.git"
+  },
+  "keywords": [
+    "typeof",
+    "type",
+    "javascript",
+    "object",
+    "array",
+    "date"
+  ],
+  "author": "Heleth <bon.hoo@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoizZ/realType/issues"
+  },
+  "homepage": "https://github.com/BoizZ/realType#readme"
+}
